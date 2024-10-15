@@ -16,7 +16,7 @@ tokens:
     connections:
       - token: ethereum|sei|0xeA895A7Ff45d8d3857A04c1E38A362f3bd9a076f
     decimals: 18
-    logoURI: /deployments/warp_routes/FASTUSD/logo.svg
-    name: fastUSD
+    logoURI: /deployments/warp_routes/FASTUSD/deUSD.svg
+    name: deUSD
     standard: EvmHypCollateral
-    symbol: fastUSD
+    symbol: deUSD
